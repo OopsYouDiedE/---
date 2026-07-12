@@ -116,6 +116,24 @@ ALGEE是MHFA的五步行动计划，五个字母代表：
 
 五步可直接用于正文，但建议按本书语言习惯重述而非硬译缩写。两个写作要点：①A步的"先评估危险"是整个框架里最不能省略的一步，正文若做任何简化，此步必须保留；②两个E（专业帮助+其他支持）合起来就是本书需要的"转介出口"，框架自带，不需要另外生硬地贴免责声明。
 
+### 2.7 各步具体子动作（官方细则，2026-07-12 补充核实）
+
+**[已多源确认]** ★★★★★（MHFA USA 与 MHFA Australia 两家官方页面直接抓取，检索于 2026-07-12）
+
+**来源**：
+- MHFA USA："Using the 5-Step MHFA Action Plan: How ALGEE Helps"：https://mentalhealthfirstaid.org/news/algee-how-mhfa-helps-you-respond-in-crisis-and-non-crisis-situations/
+- MHFA Australia："Exploring the MHFA Action Plan"：https://www.mhfa.com.au/resources-support/articles/exploring-the-mhfa-action-plan
+
+在条目2官方定义之下，补充各步**可照做的具体子动作**（供正文把五步落成白话动作使用）：
+
+- **A（接近／评估／危机中协助）**：以真诚、邀请的姿态接近，让对方明白你有空、愿意提供支持（"Approach in a genuine and inviting way—make it clear you are available to offer support"）；先安顿好自己、专注当下（"Ready yourself and be present in the moment"）；挑有整段时间、不被打断的时机与相对私密的地方（"Make sure you have time to see the Action Plan through"；"Create a safe space free from interruptions"；"Consider privacy, confidentiality and boundaries"）；从对方的情绪、神态、肢体语言和言语判断处境（"assess mood, demeanour, body language and words"）；若对方正在伤害自己、危及他人或处于自杀危机，先处理危机（"Act in a crisis"）；**守住施助者自身的安全与边界**（"Keep yourself safe and respect your own boundaries as a care giver"）。MHFA USA 另给了开场句式模板"I noticed that…"，以及"若对方不愿向你倾诉，鼓励其找一个信任的人谈"（"If the person does not want to confide in you, encourage them to talk to someone they trust"）。
+- **L（不带评判地倾听）**：用鼓励对方开口的话语，让其分享感受；**不要说太多、不要把注意力从对方身上移开**（"Don't talk too much or take attention off the person and their problems"）；搁下自己的负面看法与反应；用点头、关切的表情、适当的微笑等鼓励性信号（"nods, concerned expressions, and even smiles"）；**必要时把对方的话复述回去以确认与澄清**（"Repeat things back for clarity and understanding if needed"）。此条为正文"复述确认"动作提供了 MHFA 官方出处（与《情感无效化与有效回应的证据》中 Weger 2014 的机制证据互补）。
+- **G（给支持与信息）**：给予安慰与情感支持；帮对方看到自己并不孤单、其心理问题并不可耻（"they are not alone and that their mental health problem is not shameful"）；提供缓解症状／增加安全感的即时实际帮助，如一个能坐下的安静处、一杯水（"a quiet place to sit down, a drink of water"）；一起梳理已试过什么、哪些有用哪些没用（"Explore options"）。
+- **E（鼓励专业帮助）**：明确点名的专业渠道包括——全科医生／家庭医生、心理咨询师／临床心理师、精神科等心理健康服务机构、员工帮助计划（EAP）、学校心理老师，以及各类热线与支持团体，可涉及药物与转诊、专业咨询与治疗（"Medications and referrals; Professional counselling and therapies; Local GP, Counsellor/Psychologist; Employee Assistance Program, School Counsellor; Mental health service providers, helplines, support groups"）；口径是"求助是勇敢、重要、正常、常见、不丢人的"（"seeking professional help is brave, important, normal, common and nothing to be ashamed of"），且"越早求助，恢复机会越好"（"The earlier someone gets help, the better their chances of recovery"）。
+- **E（鼓励其他支持）**：把对方原有的家人、朋友支持网络用起来（"family and friends who can support them"）；寻找有相似困扰者的本地支持团体（"local support groups for people with similar problems"）；**避开会加重症状的物质（如酒精及其他药物）**（"Avoiding harmful substances e.g. alcohol and other drugs"），践行正向的健康与自我照顾行动（"practicing positive health and wellbeing actions"）；商量能让对方"感觉好一点、有安全感、有连接感"的下一个正向小步骤（"next positive steps…to keep the person feeling a bit better, safe and connected"）。
+
+**写作口径提示**：第二个 E 的官方措辞是"正向健康与自我照顾行动""避开会加重症状的物质"，**并未把"规律作息／睡眠／运动"逐项列为指南动作**；正文若举"按时吃饭睡觉"之类例子，应作为"自我照顾"的通俗示例、标明是辅助而非替代治疗，不夸大其疗效（延续条目7、条目8的证据边界）。
+
 ---
 
 ## 3. ALGEE的中文对应表述
