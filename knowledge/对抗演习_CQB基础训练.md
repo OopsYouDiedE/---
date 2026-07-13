@@ -152,6 +152,27 @@ Fairbairn于1907–1940年间任职于**上海公共租界工部局巡捕房（S
 
 ---
 
-## 八、知识局限声明
+## 八、信源归属校正（2026-07-13 补充）
+
+写稿时若把切角/致命漏斗与「起源」「反应时间」等历史或量化断言挂到单一来源，容易出现张冠李戴。经复核 UF PRO 与 Barringer 原文，补两点归属纪律：
+
+### 8.1 切角角度序列与 Fairbairn 起源须分源引用
+
+- **角度序列本身**（窄角/切入、45°、90°、150°、180°硬角，以及致命漏斗＝45°–135°区）来自 UF PRO「ITCQB: One-Man Room Clearing Tactics」一文（作者 Eliran Feildboy / Project Gecko，前以色列特种部队）。经抓取原文确认：该文使用**离散的 150° 一步**，**不写作「135–150°」区间**；135° 只属于致命漏斗（45°–135°）定义。写稿时把深入角写成「150度」，不要与致命漏斗的 135° 混为一个区间。
+- **该 UF PRO 原文全篇未提及 Fairbairn 或上海**，它把方法归于 ITCQB/以色列体系。因此「切角源自 Fairbairn 上海租界巡捕房」这条历史谱系**不能**挂在这篇 UF PRO 上，须单列 Fairbairn 专用信源（见本文件第七节：Wikipedia「William E. Fairbairn」＋SOFREP「The Man Behind Combat Shooting」＋《Get Tough!》1942）。稿件中对应处理：技术要领引 UF PRO，历史起源另引 Fairbairn 专源。
+
+**✓ 信源**：[UF PRO ITCQB One-Man Room Clearing](https://ufpro.com/us/blog/itcqb-one-man-room-clearing-tactics)（离散 150°、致命漏斗 45–135°、apex 对齐、"fight with what you can see"）；[Tier Three Tactical CQB 科学分析](https://www.tierthreetactical.com/the-science-of-cqb-gunfighting-and-not-getting-shot/)；[Wikipedia: William E. Fairbairn](https://en.wikipedia.org/wiki/William_E._Fairbairn)；[SOFREP: The Man Behind Combat Shooting](https://sofrep.com/news/the-man-behind-combat-shooting/)
+
+### 8.2 3–5秒冲刺：教范时长与「反应时间拆解」须区分
+
+- **3–5秒冲刺时长**是 ATP 3-21.8 教范原文（"Soldiers move using 3- to 5-second rushes"）；教范只给时长，**未固定码数**。
+- **「5–7码」距离与「I'm up, he sees me, I'm down」口诀**是战术训练界广泛沿用的记忆估算（Max Velocity Tactical 等），不是教范原文的固定数字。稿件应向读者说明这一层归属，避免读者把码数当成教范硬指标。
+- **Barringer & Rooney「The Rush」（Infantry 杂志 2016）** 支持的核心结论是：普通步枪手对移动目标的**平均交战反应时间约 3 秒或更短**，暴露超过 5 秒命中概率显著上升，**生存的关键变量是移动速度**（越快越难被命中）。该文**没有**把反应时间拆成「察觉 1–1.5秒＋瞄准 1–1.5秒＋扣发 0.5–1秒」的分段秒数。此类分段拆解只能作**说明性模型**帮助理解，不得写成有出处的引用标准。
+
+**✓ 信源**：[Barringer & Rooney, "The Rush: How Speed Can Save Lives," *Infantry* magazine](https://www.benning.army.mil/infantry/magazine/issues/2016/APR-JUL/pdf/4)%20Barringer_Rush.pdf)；[Army Times, "Move or die: Why speed matters"](https://www.armytimes.com/off-duty/military-fitness/2018/01/02/move-or-die-why-speed-matters-and-how-troops-can-get-faster/)；[Max Velocity Tactical, "Combat Safety: Short Bounds"](https://maxvelocitytactical.com/combat-safety-short-bounds/)
+
+---
+
+## 九、知识局限声明
 
 ALERRT的研究基于执法（Law Enforcement）环境，其受训者均为持证执法人员。本文件将相关原则应用于平民演习和防卫教育，适用性须结合具体场景判断。任何真实环境下的CQB行动均具有极高风险，本文所述原则仅用于认知教育，不构成实战操作建议。

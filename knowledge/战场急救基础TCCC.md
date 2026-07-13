@@ -232,3 +232,41 @@ MARCH是战术伤亡处置的标准检伤顺序，每个字母代表一个必须
 | 黄金时间 | 60分钟内手术 | 创伤外科共识 |
 | 临时止血带最小宽度 | ≥5厘米 | CoTCCC |
 | 心肺复苏前开始止血 | TCCC第一优先 | Butler 1996→2023 |
+
+---
+
+## 七、校正补记（2026-07-13 核验，覆盖本文前述数字）
+
+> 以下三条依据一手文献重新核对，**优先级高于本文上方的旧表述**。凡与上文 1.1 节、C 循环节、关键数据速查表中的数字冲突，以本节为准。
+
+### 7.1 可预防死亡病因分布——归因与数字校正
+
+本文 1.1 节与速查表旧写「四肢大出血约60–80%、气道约8%、张力性气胸约8%」，其中把「四肢60–80%」与「张力性气胸8%」直接挂在 Eastridge 2012 名下属**归因错误**。经查一手论文：
+
+- **Eastridge BJ, et al. (2012)《Death on the battlefield (2001–2011)》** 的实际口径是「潜在可存活（potentially survivable）」院前死亡：**出血约90.9%**，其中**躯干约67.3%、交界区约19.2%、四肢约13.5%**；**气道阻塞约8%**；**张力性气胸约1.1%**。旧文的「8%气胸」实为把气道数字误植到气胸。
+- 「四肢出血占60–80%」是**更早/汇总来源**里「四肢出血为既往战场可预防死亡首要单一部位」的教学口径（越战、摩加迪沙时代），须与 Eastridge 数字**脱钩**，单独标注其历史出处，不得压在 Eastridge 名下。
+- 教学结论不变：**出血（尤以四肢、交界区）是院前可直接干预的最主要可预防死因，故止血列 MARCH 第一优先。**
+
+**交叉源（≥2）：**
+1. Eastridge BJ, et al. "Death on the battlefield (2001–2011)." *J Trauma Acute Care Surg* 2012;73(6 Suppl 5):S431–S437. https://pubmed.ncbi.nlm.nih.gov/23192066/
+2. EAST 存档全文 PDF（同论文）：https://www.east.org/content/documents/MilitaryResources/b/TCCC%20Eastridge%20Death%20on%20the%20Battlefield%20J%20Trauma%202012.pdf
+
+### 7.2 限制性复苏血压目标——TCCC 与欧洲民用指南须区分
+
+本文 C 循环节与速查表旧写「控制性低压复苏目标收缩压 80–90mmHg，来源 JTS CPG 2024」属**标准张冠李戴**。经查：
+
+- **TCCC 2024-01-25 版指南**的失血性休克复苏终点为：**可触及桡动脉搏动 / 神志改善 / 收缩压约100mmHg**（有监测时）；合并疑似**颅脑损伤（TBI）时维持收缩压100–110mmHg**。
+- **收缩压80–90mmHg** 是**欧洲创伤大出血管理指南（第六版，2023）**对**无 TBI/脊髓损伤**者的允许性低血压目标，属民用/欧洲口径，与 TCCC 不同，不能混用。
+
+**交叉源（≥2）：**
+1. Tactical Combat Casualty Care (TCCC) Guidelines, 25 January 2024（CoTCCC）。复苏终点原文「palpable radial pulse / improved mental status / SBP 100mmHg」、TBI 100–110mmHg。https://learning-media.allogy.com/api/v1/pdf/f4cf1d4e-3191-443a-befc-415838fb04f2/contents
+2. Rossaint R, Afshari A, Spahn DR, et al. "The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition." *Crit Care* 2023;27:80（无 TBI 者 SBP 80–90mmHg 允许性低血压）。https://link.springer.com/article/10.1186/s13054-023-04327-7
+
+### 7.3 张力性气胸针刺减压——穿刺点版本差异
+
+- **TCCC 2024 主文**：14号或10号、长3.25英寸/8.25cm 针/套管；穿刺点取**第5肋间腋前线**或**第2肋间锁骨中线**，进针紧贴下位肋骨上缘，首次失败改用另一点+新针。
+- **版本差异提示**：部分 TCCC 技能卡/旧版把侧胸点表述为**第4或第5肋间腋前线**；读者对照他源出现「第4肋间」字样时不必困惑，取腋前线即可。第2肋间锁骨中线点勿在乳头连线内侧进针，以免损伤心脏大血管。
+
+**交叉源（≥2）：**
+1. TCCC Guidelines 25 January 2024（同上 allogy 链接）。
+2. Callaway DW, et al. 关于侧胸（第4/5肋间腋前线）入路的论证，及 Butler 等 CoTCCC 变更提案（JSOM 2018）。https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-mp/change-packages/17-02-tccc-butler-tension-pneumothorax-jsom-2018.pdf
