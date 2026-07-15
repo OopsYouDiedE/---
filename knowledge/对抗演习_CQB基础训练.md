@@ -6,13 +6,15 @@
 
 ---
 
+> 2026-07-16 逐源核验修复：本文件按核验工单修复 3 处，记录见《知识库逐源核验报告》。
+
 ## 一、ALERRT与CQB研究背景
 
 **ALERRT（Advanced Law Enforcement Rapid Response Training）** 是德克萨斯州立大学下设的美国最大规模主动射手应对训练研究机构，研究成果被美国FBI和众多执法机构采用为训练标准。
 
 核心研究人员：
 - Dr. J. Pete Blair（德克萨斯州立大学教授，ALERRT执行主任）
-- Dr. M. Hunter Martindale（研究主任）
+- Dr. M. Hunter Martaindale（研究主任）
 
 其研究成果收录于专著《Evaluating Police Tactics》，及公开发布的战术比较研究报告。
 
@@ -139,7 +141,7 @@ Fairbairn于1907–1940年间任职于**上海公共租界工部局巡捕房（S
 - Fairbairn将格斗训练标准化，编写了《Get Tough!》（1942）和《Shooting to Live》（与Eric Sykes合著，1942），成为二战时期英美特种作战培训的基础教材。
 - 二战期间，他为OSS（美国战略情报局，CIA前身）和英国特别行动执行局（SOE）的特种部队提供培训，将上海实战总结的技术传入特种作战体系。
 
-**✓ 信源**：[Fairbairn Wikipedia条目](https://en.wikipedia.org/wiki/William_E._Fairbairn)；[《Get Tough》(1942) 文献资料]；[SOFREP - Origins of CQB](https://sofrep.com/news/the-man-behind-combat-shooting/)
+**✓ 信源**：[Fairbairn Wikipedia条目](https://en.wikipedia.org/wiki/William_E._Fairbairn)；[《Get Tough》(1942) 文献资料]；[SOFREP - Origins of CQB](https://sofrep.com/news/the-man-behind-combat-shooting/)⚠ 待证实（2026-07 核验：原引用查无此源，访问返回 HTTP 403，链接真实性无法确认）
 
 ### 7.2 FM 3-06.11 的现代规范地位
 
@@ -161,7 +163,7 @@ Fairbairn于1907–1940年间任职于**上海公共租界工部局巡捕房（S
 - **角度序列本身**（窄角/切入、45°、90°、150°、180°硬角，以及致命漏斗＝45°–135°区）来自 UF PRO「ITCQB: One-Man Room Clearing Tactics」一文（作者 Eliran Feildboy / Project Gecko，前以色列特种部队）。经抓取原文确认：该文使用**离散的 150° 一步**，**不写作「135–150°」区间**；135° 只属于致命漏斗（45°–135°）定义。写稿时把深入角写成「150度」，不要与致命漏斗的 135° 混为一个区间。
 - **该 UF PRO 原文全篇未提及 Fairbairn 或上海**，它把方法归于 ITCQB/以色列体系。因此「切角源自 Fairbairn 上海租界巡捕房」这条历史谱系**不能**挂在这篇 UF PRO 上，须单列 Fairbairn 专用信源（见本文件第七节：Wikipedia「William E. Fairbairn」＋SOFREP「The Man Behind Combat Shooting」＋《Get Tough!》1942）。稿件中对应处理：技术要领引 UF PRO，历史起源另引 Fairbairn 专源。
 
-**✓ 信源**：[UF PRO ITCQB One-Man Room Clearing](https://ufpro.com/us/blog/itcqb-one-man-room-clearing-tactics)（离散 150°、致命漏斗 45–135°、apex 对齐、"fight with what you can see"）；[Tier Three Tactical CQB 科学分析](https://www.tierthreetactical.com/the-science-of-cqb-gunfighting-and-not-getting-shot/)；[Wikipedia: William E. Fairbairn](https://en.wikipedia.org/wiki/William_E._Fairbairn)；[SOFREP: The Man Behind Combat Shooting](https://sofrep.com/news/the-man-behind-combat-shooting/)
+**✓ 信源**：[UF PRO ITCQB One-Man Room Clearing](https://ufpro.com/us/blog/itcqb-one-man-room-clearing-tactics)（离散 150°、致命漏斗 45–135°、apex 对齐、"fight with what you can see"）；[Tier Three Tactical CQB 科学分析](https://www.tierthreetactical.com/the-science-of-cqb-gunfighting-and-not-getting-shot/)；[Wikipedia: William E. Fairbairn](https://en.wikipedia.org/wiki/William_E._Fairbairn)；[SOFREP: The Man Behind Combat Shooting](https://sofrep.com/news/the-man-behind-combat-shooting/)⚠ 待证实（2026-07 核验：原引用查无此源，访问返回 HTTP 403，链接真实性无法确认）
 
 ### 8.2 3–5秒冲刺：教范时长与「反应时间拆解」须区分
 

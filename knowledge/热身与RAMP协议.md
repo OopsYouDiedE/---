@@ -1,5 +1,7 @@
 # 事实核查：热身（准备活动）与 RAMP 协议
 
+> 2026-07-16 逐源核验修复：本文件按核验工单修复 3 处，记录见《知识库逐源核验报告》。
+
 **核查日期：** 2026年7月13日
 **核查用途：** 新六艺·「射」章·《强身健体》「准备活动」小节事实支撑
 **信源类型：** 同行评审系统综述与元分析、专业机构（NSCA/UKSCA/ACSM）教育材料
@@ -44,11 +46,11 @@
 
 **[已多源确认]**
 
-- Al Attar 等（2021，*PLOS ONE* 16(5):e0251839）整群随机对照试验：FIFA 11+ 神经肌肉热身把总体损伤率降至对照组的 **0.6 倍（RR=0.6，95% CI 0.5—0.8）**，中度损伤降 55%、重度损伤降 71%。
+- Nuhu 等（2021，*PLOS ONE* 16(5):e0251839）整群随机对照试验：FIFA 11+ 神经肌肉热身把总体损伤率降至对照组的 **0.6 倍（RR=0.6，95% CI 0.5—0.8）**，中度损伤降 55%、重度损伤降 71%。
 - 与「女性锻炼者指南」知识文件交叉：臀部/髋外展肌系统强化（臀桥、蚌式开合、弹力带侧移）被 ACL 损伤预防的神经肌肉训练元分析（Myer 等，PMC5502078）确认可显著降低前交叉韧带损伤率。臀桥、蚌式在初学者激活段中同时承担 ACL 预防功能。
 
 **来源：**
-- Al Attar WSA, et al. PLOS ONE. 2021;16(5):e0251839. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251839
+- Nuhu A, Jelsma J, Dunleavy K, Burgess T, et al. PLOS ONE. 2021;16(5):e0251839. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251839
 - Myer GD, et al. 神经肌肉训练降低女性 ACL 损伤风险元回归. PMC5502078（见「女性锻炼者指南.md」交叉）
 
 ---
@@ -58,7 +60,7 @@
 **[已多源确认]**
 
 - **原始出处与年份**：Ian Jeffreys，*Warm-up revisited: The RAMP method of optimising performance preparation*，**Professional Strength and Conditioning**, 2007;(6):12-18。一手论文与机构存档均标注 **2007 年**（部分二级科普页写「2006 年提出」，以一手期刊论文 2007 为准）。
-- **作者身份（可核证版本）**：英国 University of South Wales 体能教授；NSCA 会员（自 1989 年），持 CSCS 与 NSCA-CPT 认证；UKSCA（英国体能协会）创始成员，2004—2013 年任董事会成员。**「NSCA 董事」的表述缺乏来源支撑，属错误归因，勿使用。**（他 2006 年获 NSCA High School Professional of the Year，为该奖首次授予美国本土以外教练。）
+- **作者身份（可核证版本）**：英国 University of South Wales 体能教授；NSCA 会员（自 1989 年），持 CSCS 与 NSCA-CPT 认证（均以 Distinction 重新认证）；UKSCA（英国体能协会）创始成员，2004—2013 年任董事会成员；另据多个机构简介，亦曾任 NSCA 董事会成员（board member）。（他 2006 年获 NSCA High School Professional of the Year，为该奖首次授予美国本土以外教练。）
 - **四阶段含义**：
   1. **Raise（升温）**：低强度全身活动，升高体温、心率、呼吸频率、血流。
   2. **Activate（激活）**：激活本次训练涉及的关键肌群。
@@ -97,12 +99,12 @@
 - **关键处方参数**（元分析）：
   - 强度：下肢负重深蹲需 **>85% 1RM** 才稳定诱发 PAPE；60%—85% 与更低强度效果不确定。
   - 恢复间隔：预激活与目标动作之间留 **4—7 分钟** 时增益最大；间隔 0—1 分钟时疲劳压过增强，反而降低表现。
-  - 效应量：Cohen's d 约 0.31—0.41（跳跃类表现）。
+  - 效应量：Cohen's d 约 0.31（跳跃类表现，Frontiers 2023 可核实）；上限 0.41 来自 Xu 等（Sports Medicine 2025，付费墙，⚠ 待证实）。
 - 对不使用大重量的普通训练者，「高强度」通过**渐进爬坡组**实现（以递增负荷/难度做几组，逐步逼近工作重量）。
 
 **来源：**
 - Frontiers in Physiology. 2023;14:1202789. Effects of rest interval and training intensity on jumping performance investigating PAPE. https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1202789/full
-- Sports Medicine (Springer). 2024. Optimizing Post-activation Performance Enhancement in Athletic Tasks: A Systematic Review with Meta-analysis for Prescription Variables. https://link.springer.com/article/10.1007/s40279-024-02170-6
+- Xu 等. Sports Medicine (Springer). 2025;55(4):977-1008. Optimizing Post-activation Performance Enhancement in Athletic Tasks: A Systematic Review with Meta-analysis for Prescription Variables. https://link.springer.com/article/10.1007/s40279-024-02170-6
 
 ---
 
@@ -110,7 +112,7 @@
 
 1. **有效性**：热身在 79% 指标改善表现、几无害处（Fradkin 2010，32 项研究）。
 2. **温度机制**：肌温每升 1°C，速度/爆发力提升 3.2%—3.7%/°C，最大力量不受影响（Wilson 2025，33 项研究）。
-3. **损伤预防**：神经肌肉热身把损伤率降至 0.6 倍（FIFA 11+，Al Attar 2021）。
-4. **RAMP**：Jeffreys **2007** 年提出（勿写 2006）；作者为 University of South Wales 教授、NSCA CSCS、UKSCA 创始与董事会成员（勿写「NSCA 董事」）。
+3. **损伤预防**：神经肌肉热身把损伤率降至 0.6 倍（FIFA 11+，Nuhu 等 2021）。
+4. **RAMP**：Jeffreys **2007** 年提出（勿写 2006）；作者为 University of South Wales 教授、NSCA CSCS 及 board member、UKSCA 创始与董事会成员。
 5. **Raise 强度**：ACSM 建议 5—10 分钟低到中等强度（引一手 acsm.org）。
 6. **Potentiate/PAPE**：>85% 1RM 诱发，4—7 分钟间隔增益最大。

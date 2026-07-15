@@ -8,6 +8,8 @@
 > 适用场景：面向16-24岁中国读者，用于"如何对待外表显眼的人"相关内容的事实支撑；落点应是描述性、中立、可操作（先问再帮/对方说不用就不用/家长当场怎么教孩子），不生产说教腔
 > 状态：初稿，来源已核，分层标注
 
+> 2026-07-16 逐源核验修复：本文件按核验工单修复 3 处，记录见《知识库逐源核验报告》。
+
 ---
 
 ## 一、盯着看/凝视的社会心理学：强实证研究
@@ -81,7 +83,7 @@
 
 [已多源确认——权威综述+原始流调研究]
 
-- **原始流调**：Rumsey, N., Clarke, A., & White, P. (2003). "Exploring the psychosocial concerns of outpatients with disfiguring conditions." *Journal of Wound Care*, 12(7), 247-252. 样本：来自15个门诊的**458名**外观差异患者，测焦虑抑郁、社交焦虑与回避、生活质量的标准化量表。据综述转引：约**48%显现焦虑症状，28%患抑郁**，56%被评估需要接受心理健康专业介入。
+- **原始流调**：Rumsey, N., Clarke, A., & White, P. (2004). "Exploring the psychosocial concerns of outpatients with disfiguring conditions." *Body Image*, 1(2). 样本：来自15个门诊的**458名**外观差异患者，测焦虑抑郁、社交焦虑与回避、生活质量的标准化量表。据Sarwer et al. 2022综述转引（参考文献#114）：约**48%显现焦虑症状，28%患抑郁**（此两项数字归于Rumsey et al. 2004，Body Image）；56%被评估需要接受心理健康专业介入（该数字Sarwer et al. 2022将其归于Strauss & Broder 1991，非Rumsey）。[注：另有Rumsey, Clarke, White等人2003年发表于Journal of Wound Care 12(7):247-252的论文，与本条为不同年份/期刊的两篇独立文献；原引用元数据将两者混同，2026-07核验已更正。]
 - **综述整合**：Sarwer, D. B., Siminoff, L. A., Gardiner, H. M., & Spitzer, J. C. (2022). "The Psychosocial Burden of Visible Disfigurement Following Traumatic Injury." *Frontiers in Psychology* (Health Psychology), DOI: 10.3389/fpsyg.2022.979574
   - 原文关键句："Individuals with facial disfigurement have been found to be the target of **unwanted staring** as well as negative appearance-related comments (i.e., teasing or bullying) from others."
   - 原文关键句（关联心理后果）："The occurrence of this unwanted attention is associated with **increased symptoms of depression and lower self-esteem**."
@@ -214,7 +216,7 @@
   - **近半数**外观差异者经历过敌意行为、**三分之一**经历过仇恨犯罪、**超过十分之二**的仇恨犯罪受害者未曾报警（来源：2023年Savanta歧视研究）。
   - **超三分之一**外观差异者在求职中遭遇外表歧视（来源：2023年Savanta研究）。
 - 页面上出现但**未标注原始出处**的数字（引用需谨慎，建议正文只用"官方倡导材料提到"这类模糊口径，不当成独立研究数字）：近五分之一英国人自认有外观差异；近四分之一因外观差异感到沮丧/悲伤/焦虑；超四分之一在公共场合感到自我意识过剩；近三分之一曾因外观差异被盯着看。
-- 《Disfigurement in the UK》2017年报告本身：2016年11月至2017年2月完成，**806名**确认居住在英国、有外观差异的受访者参与，是英国该领域**首次**做的这类专门调查；四分之三受访者曾遭遇陌生人的不友善评论或言语。
+- 《Disfigurement in the UK》2017年报告本身：2016年11月至2017年2月完成，**806名**确认居住在英国、有外观差异的受访者参与，是英国该领域**首次**做的这类专门调查；**超过五分之四（81.3%）**受访者曾遭遇陌生人的不友善评论或言语（2026-07核验：原文"四分之三"偏低约6个百分点，已按官网 https://www.changingfaces.org.uk/for-the-media/facts-figures/ 更正）。
 - **可信度**：★★★★☆（明确标注来源的数字）/ ★★☆☆☆（未标注来源的数字，正文慎用）
 - **来源**：https://www.changingfaces.org.uk/for-the-media/facts-figures/ ；报告PDF https://www.changingfaces.org.uk/wp-content/uploads/2021/05/disfigurement-in-the-uk-report-2017.pdf
 
@@ -305,7 +307,7 @@
 | 偏好互相注视时长平均3.3秒（±0.7秒），超出即不适 | ★★★★★ 大样本实证 | Binetti et al. 2016, Royal Society Open Science, N=498 |
 | 面部差异者视觉注意力被"差异处"吸走、离开眼部，伴随厌恶/惊讶情绪 | ★★★★★ 预注册实证 | Rasset, Mange & Montalan 2022, Body Image, N=89 |
 | "自认为有疤"即感觉被区别对待，即使疤痕已被卸除 | ★★★★☆ 经典实验，多方转述一致 | Kleck & Strenta 1980, JPSP |
-| 458名门诊患者中约48%焦虑、28%抑郁 | ★★★★☆ 综述转引原始流调 | Rumsey, Clarke & White 2003；转引自 Sarwer et al. 2022 Frontiers |
+| 458名门诊患者中约48%焦虑、28%抑郁 | ★★★★☆ 综述转引原始流调 | Rumsey et al. 2004, Body Image（数字来源）；转引自 Sarwer et al. 2022 Frontiers |
 | "不想要的盯着看"与更高抑郁症状、更低自尊相关 | ★★★★☆ 综述原文 | Sarwer et al. 2022, Frontiers in Psychology |
 | 公众与外观差异者保持更远人际距离（具体厘米数不建议逐字用） | ★★★☆☆ 单一转述 | Rumsey, Bull & Gahagan 1982 |
 | 疤痕使人被评价为"less sociable/less attractive/more dishonest"，跨文化一致 | ★★★☆☆ 转述 | Bull & David 1986 |

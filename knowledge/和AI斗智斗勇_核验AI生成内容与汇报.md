@@ -7,6 +7,8 @@
 
 ---
 
+> 2026-07-16 逐源核验修复：本文件按核验工单修复 1 处，记录见《知识库逐源核验报告》。
+
 > **核心命题（本文件的骨架，务必贯穿正文）：你赢不了 AI 的知识，别在这上面较劲。**
 > AI 的知识量远超任何普通人，"我去查证它说得对不对"在多数领域根本做不到——2026 年的研究直说，**核查者能查出来的东西，和大模型能生产出来的东西，之间的差距很大、而且还在拉大**。所以对付 AI，用的不是"比它更懂"，而是本书对付一切强势汇报者的老办法：**不接受没有落点的断言。** 具体到 AI，有效的抓手只有四个，全都不需要你懂那个专业：
 > 1. **验接地，不验内容**：不问"这句对不对"（你会输），问"它落在哪个能被独立调取的来源上，那来源真存在、真这么说吗"——存在与否、原文说没说，是任何人都能机械核对的。
@@ -22,9 +24,9 @@
 
 **✓ 已核实（法院裁定 + 多家法律机构 + 维基，交叉一致）** ★★★★★
 
-- 2022 年，Roberto Mata 起诉哥伦比亚航空。原告律师用 ChatGPT 写动议，其中引用了**六个完全虚构的判例**，带着看似真实的引述与案号，涉及并不存在的案件。对方律师和法院都查不到，法院责令提交原文，真相败露。2023 年 5 月主审法官 P. Kevin Castel 驳回该案，对两名律师**各处罚款、合计 5,000 美元**，并责令他们分别致信那些被 ChatGPT 伪造成"判决作者"的真实法官。
+- 2022 年，Roberto Mata 起诉哥伦比亚航空。原告律师用 ChatGPT 写动议，其中引用了**六个完全虚构的判例**，带着看似真实的引述与案号，涉及并不存在的案件。对方律师和法院都查不到，法院责令提交原文，真相败露。2023 年 5 月主审法官 P. Kevin Castel 驳回该案，对两名律师及其律所**连带共同处以 5,000 美元罚款**（jointly and severally，即 Schwartz、LoDuca 与律所三方连带共付 5,000 美元，并非每人各受独立罚款），并责令他们分别致信那些被 ChatGPT 伪造成"判决作者"的真实法官。
 - 关键：假判例带着**真实作者名 + 貌似贴切的标题 + 可信的案号格式**——它伪造的恰恰是"看起来可核查"的外壳。
-- 信源：Mata v. Avianca, 678 F.Supp.3d 443 (S.D.N.Y. 2023)；Wikipedia；Seyfarth Shaw。
+- 信源：Mata v. Avianca, 678 F.Supp.3d 443 (S.D.N.Y. 2023)；Wikipedia（en.wikipedia.org/wiki/Mata_v._Avianca,_Inc.）；Seyfarth Shaw；LegalClarity（https://legalclarity.org/what-happened-in-the-mata-v-avianca-case/，罚款结构核查）。
 
 ### 1.2 幻觉是稳定比率，且"接地/检索增强"压不住
 
@@ -140,7 +142,7 @@
 
 ## 核心引用
 
-1. **Mata v. Avianca**：6 个 ChatGPT 编造判例、合计 $5,000 罚款、法官 Castel（2023）。678 F.Supp.3d 443。★★★★★
+1. **Mata v. Avianca**：6 个 ChatGPT 编造判例、Schwartz/LoDuca/律所连带共付 $5,000 罚款（jointly and severally）、法官 Castel（2023）。678 F.Supp.3d 443。★★★★★
 2. **接地也压不住幻觉**：Lexis+ 17%/Westlaw 33%/GPT-4 43%（斯坦福，2024测）；RAG 生产系统仍 13–21% 引用幻觉、"核查者能查的与模型能产的差距在拉大"、真来源被曲解/时间错置最危险（2026 预印本）。★★★★★
 3. **文献引用编造**：医学 41/59（69%）；多学科 GPT-3.5 55% vs GPT-4 18%（2023）。★★★★★
 4. **Arup 深伪诈骗**：视频会议换脸拟声冒充 CFO，15 笔约 2.56 亿港元/2,560 万美元（2024-01）。CNN、Fortune。★★★★★
@@ -149,7 +151,7 @@
 7. **溯源技术与边界**：C2PA（可被另存/截屏剥除）、SynthID（100B+ 文件，但开源/恶意工具多不打水印）。C2PA 官方、DeepMind。★★★★☆
 
 ### 信源清单（URL）
-- Mata v. Avianca：en.wikipedia.org/wiki/Mata_v._Avianca,_Inc.；seyfarth.com
+- Mata v. Avianca：en.wikipedia.org/wiki/Mata_v._Avianca,_Inc.；seyfarth.com；legalclarity.org/what-happened-in-the-mata-v-avianca-case/
 - 斯坦福法律 AI 幻觉：lawnext.com（2024-05）；斯坦福 HAI/RegLab
 - 2026 引用幻觉/RAG：arxiv.org/abs/2606.00898；arxiv.org/pdf/2604.03173；arxiv.org/pdf/2601.19927（Attribution/RAG 综述）
 - 文献引用编造：pmc.ncbi.nlm.nih.gov/articles/PMC11975740；nature.com/articles/s41598-023-41032-5
