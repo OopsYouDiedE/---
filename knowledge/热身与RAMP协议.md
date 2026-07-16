@@ -1,6 +1,7 @@
 # 事实核查：热身（准备活动）与 RAMP 协议
 
 > 2026-07-16 逐源核验修复：本文件按核验工单修复 3 处，记录见《知识库逐源核验报告》。
+> 2026-07-16 二轮修正：按定性调查回滚/追加 3 处（见《知识库问题定性调查报告》）。
 
 **核查日期：** 2026年7月13日
 **核查用途：** 新六艺·「射」章·《强身健体》「准备活动」小节事实支撑
@@ -60,7 +61,7 @@
 **[已多源确认]**
 
 - **原始出处与年份**：Ian Jeffreys，*Warm-up revisited: The RAMP method of optimising performance preparation*，**Professional Strength and Conditioning**, 2007;(6):12-18。一手论文与机构存档均标注 **2007 年**（部分二级科普页写「2006 年提出」，以一手期刊论文 2007 为准）。
-- **作者身份（可核证版本）**：英国 University of South Wales 体能教授；NSCA 会员（自 1989 年），持 CSCS 与 NSCA-CPT 认证（均以 Distinction 重新认证）；UKSCA（英国体能协会）创始成员，2004—2013 年任董事会成员；另据多个机构简介，亦曾任 NSCA 董事会成员（board member）。（他 2006 年获 NSCA High School Professional of the Year，为该奖首次授予美国本土以外教练。）
+- **作者身份（可核证版本）**：英国 University of South Wales 体能教授；NSCA 会员（自 1989 年），持 CSCS 与 NSCA-CPT 认证（均以 Distinction 重新认证）；UKSCA（英国体能协会）创始成员，2004—2013 年任董事会成员；另据多个机构简介，2016—2019 年任 NSCA 董事会成员（board member）、2018—2019 年任副主席（Vice President），2023 年 7 月当选主席当选人（President-Elect），2024 年 7 月起就任 NSCA 主席（President），任三年任期（至 2027 年）——**截至 2026 年 7 月为在任主席，非仅「曾任董事」**。（他 2006 年获 NSCA High School Professional of the Year，为该奖首次授予美国本土以外教练。）
 - **四阶段含义**：
   1. **Raise（升温）**：低强度全身活动，升高体温、心率、呼吸频率、血流。
   2. **Activate（激活）**：激活本次训练涉及的关键肌群。
@@ -73,6 +74,9 @@
 - University of South Wales 官方教授介绍页（作者身份与经历）https://www.southwales.ac.uk/news/2016/strength-and-conditioning-expert-becomes-professor/
 - UKSCA 会员/董事经历（ASCA Podcast #20 Ian Jeffreys 简介）https://www.strengthandconditioning.org/podcast/1968-asca-podcast-20-ian-jeffreys
 - Human Kinetics. What Is the RAMP Warm-Up?（四阶段目标与示例）https://humankinetics.me/2019/03/04/what-is-the-ramp-warm-up/
+- NSCA Board of Directors / Leadership（现任主席 Ian Jeffreys）https://www.nsca.com/about-us/about-us/nsca-leadership/
+- NSCA Announces 2023 Election Results（2023年当选主席当选人；2016—2019董事、2018—2019副主席经历）https://www.nsca.com/media-room/press-releases/nsca-announces-2023-election-results/
+- NSCA Bylaws（主席任三年任期、任期前一年任主席当选人）https://www.nsca.com/about-us/about-us/governance/nsca-bylaws/
 
 ---
 
@@ -99,7 +103,7 @@
 - **关键处方参数**（元分析）：
   - 强度：下肢负重深蹲需 **>85% 1RM** 才稳定诱发 PAPE；60%—85% 与更低强度效果不确定。
   - 恢复间隔：预激活与目标动作之间留 **4—7 分钟** 时增益最大；间隔 0—1 分钟时疲劳压过增强，反而降低表现。
-  - 效应量：Cohen's d 约 0.31（跳跃类表现，Frontiers 2023 可核实）；上限 0.41 来自 Xu 等（Sports Medicine 2025，付费墙，⚠ 待证实）。
+  - 效应量：Cohen's d 约 0.31（全强度合并 overall 口径，4—7 分钟区间，跳跃类表现）；高强度（high-intensity）亚组同一 4—7 分钟区间效应量达 **d=0.41**（95% CI 0.10—0.73，p=0.01）——两值同出 **Frontiers 2023** 同一开放获取论文 Table 2，均可直接核实，并非来自付费墙内的 Sports Medicine 2025。
 - 对不使用大重量的普通训练者，「高强度」通过**渐进爬坡组**实现（以递增负荷/难度做几组，逐步逼近工作重量）。
 
 **来源：**
@@ -113,6 +117,6 @@
 1. **有效性**：热身在 79% 指标改善表现、几无害处（Fradkin 2010，32 项研究）。
 2. **温度机制**：肌温每升 1°C，速度/爆发力提升 3.2%—3.7%/°C，最大力量不受影响（Wilson 2025，33 项研究）。
 3. **损伤预防**：神经肌肉热身把损伤率降至 0.6 倍（FIFA 11+，Nuhu 等 2021）。
-4. **RAMP**：Jeffreys **2007** 年提出（勿写 2006）；作者为 University of South Wales 教授、NSCA CSCS 及 board member、UKSCA 创始与董事会成员。
+4. **RAMP**：Jeffreys **2007** 年提出（勿写 2006）；作者为 University of South Wales 教授、UKSCA 创始与董事会成员、**现任 NSCA 主席**（2016—2019 董事、2018—2019 副主席、2023 当选主席当选人、2024 年 7 月起任主席，至 2027 年）。
 5. **Raise 强度**：ACSM 建议 5—10 分钟低到中等强度（引一手 acsm.org）。
 6. **Potentiate/PAPE**：>85% 1RM 诱发，4—7 分钟间隔增益最大。

@@ -7,6 +7,7 @@
 ---
 
 > 2026-07-16 逐源核验修复：本文件按核验工单修复 6 处，记录见《知识库逐源核验报告》。
+> 2026-07-16 二轮修正：按定性调查回滚/追加 1 处（见《知识库问题定性调查报告》）。
 
 ## 一、TCCC框架概述
 
@@ -24,7 +25,7 @@
 
 > 注：「四肢大出血占60–80%可预防死亡」是更早期（越战/摩加迪沙时代）的教学口径，不是Eastridge 2012的数字，需与上述数据脱钩看待。教学结论不变：出血（尤以四肢、交界区）是院前最主要可直接干预的可预防死因，故止血列MARCH第一优先。
 
-**信源**：Butler FK et al. (1996). *Military Medicine*, 161(1 Suppl):3-16. Eastridge BJ, et al. "Death on the battlefield (2001–2011)." *J Trauma Acute Care Surg* 2012;73(6 Suppl 5):S431–S437. https://pubmed.ncbi.nlm.nih.gov/23192066/ US JTS Clinical Practice Guidelines (cpg.jts.mil).
+**信源**：Butler FK, Hagmann J, Butler EG. Tactical combat casualty care in special operations. Mil Med. 1996;161(Suppl 1):3-16. doi:10.1093/milmed/161.suppl_1.3. Eastridge BJ, et al. "Death on the battlefield (2001–2011)." *J Trauma Acute Care Surg* 2012;73(6 Suppl 5):S431–S437. https://pubmed.ncbi.nlm.nih.gov/23192066/ US JTS Clinical Practice Guidelines (cpg.jts.mil).
 
 ---
 

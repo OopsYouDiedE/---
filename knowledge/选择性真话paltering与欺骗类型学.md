@@ -4,7 +4,7 @@
 **核查用途：** 新六艺·「书」章·书_四「识别汇报者的谎言」核心知识库，支撑本节论点「最难防的是每句都真」——建立一套按"识破难度"排序的欺骗类型学，paltering（选择性真话）为难度顶点
 **信源类型：** 同行评审社会心理学/管理学期刊原始论文（*Journal of Personality and Social Psychology*、*Academy of Management Perspectives*、*Personality and Social Psychology Bulletin*、*Cognitive Processing*）、经同行评审期刊转引的经典专著（Bok 1978）、医学期刊科普专栏（*JSLS*）、统计学经典著作（Huff 1954）、项目内部知识库交叉引用（不重复推导）
 
-**核查方法说明**：核心论文 Rogers, Zeckhauser, Gino, Norton, & Schweitzer (2017)（下称"Paltering原文"）已通过 Harvard Kennedy School 工作论文版 PDF（与已发表的 *JPSP* 112(3), 456-473 内容一致，为同一批作者的预印本/工作论文版本）**直接获取全文并逐字核对**，本文件所有该论文的百分比、样本量、统计检验值均来自逐字核对结果，未依赖二手转述。Gaspar, Methasani, & Schweitzer (2019)《欺骗的五十种色度》综述同样已直接获取全文核对。
+**核查方法说明**：核心论文 Rogers, Zeckhauser, Gino, Norton, & Schweitzer (2017)（下称"Paltering原文"）已直接获取**发表版全文**（*Journal of Personality and Social Psychology*, 112(3), 456-473，美国心理学会版权页确认为正式出版版本）PDF **逐字核对**，本文件所有该论文的百分比、样本量、统计检验值均以此发表版为准，未依赖二手转述。**2026-07-16二轮修正提醒**：2014年 Harvard Kennedy School 工作论文草稿（RWP14-045）与发表版**并非内容一致的同一文本**——两者试点研究部分的研究设计（一项 vs 两项独立试点研究）、样本量（65人 vs 184人）、全部百分比均不同，详见2.1节；本文件已改为以发表版为唯一正文引用来源，工作论文草稿仅作历史版本对照标注，不再用于支撑正文数字。Gaspar, Methasani, & Schweitzer (2019)《欺骗的五十种色度》综述同样已直接获取全文核对。
 
 ---
 
@@ -70,26 +70,34 @@ Paltering 原文摘要给出的定义：
 
 **[已获一次文献直接核实]** ★★★★★——以下全部数字均从论文原文逐字提取，非二手转述。
 
-### 2.1 试点研究：65名高管的自述（paltering 的"流行率"数字，本节重点）
+### 2.1 试点研究（Pilot Study 2）：184名高管的自述（paltering 的"流行率"数字，本节重点）
 
-**方法**：参与者为哈佛商学院高管教育课程（聚焦谈判策略）的学员，均为中高层管理者，来自不同行业，**共65人**，均以谈判为其日常工作的一部分。研究者向他们简要定义 paltering 后，提出三个问题：多常 palter、palter 时自认诚实与否、palter 是否为了拿到更好的交易结果。
+**方法**：参与者为哈佛商学院高管教育课程（聚焦谈判策略）的学员，均为中高层管理者，来自不同行业，**全部184人**参与，均以谈判为其日常工作的一部分。研究者提供 palter / 遗漏之谎 / 硬谎三种欺骗形式的定义，全员通过三道理解检验题后，就每种欺骗形式回答三个问题：多常用这种方式误导对方（大多数/一部分/极少数谈判）、这样做时自认诚实与否、这样做是否为了拿到更好的交易结果。
 
-**核心数字（原文逐字）**：
+**核心数字（发表版 *Journal of Personality and Social Psychology*, 112(3), 456-473，原文逐字，本文件已直接获取发表版全文PDF核对）**：
 
-> "A large majority of the executives (66%) reported paltering in most (22%) or some of their negotiations (45%), whereas only 34% reported paltering in just a few of their negotiations. Eighty percent of all the executives reported that when they do palter in negotiations, they think of their paltering as honest. Finally, 92% of participants reported that they palter in order to get a better deal."
+> "Many of these experienced negotiators (52%) reported that they paltered in some or most of their negotiations. About the same proportion reported that they paltered in some or most of their negotiations as reported that they lie by omission in some or most of their negotiations (57%) ... A much smaller percentage reported that they lie by commission than paltered in some or most of their negotiations (21%) ... More of these negotiators indicated that they perceived their palters to be honest (32%) than indicated that they perceived their lies by omission to be honest (23%) ... a greater proportion indicated that they perceived their palters to be honest than indicated that they perceived their lies by commission to be honest (5%) ... When they palter, most of these negotiators (88% of them) do so in an attempt to get a better deal. This did not differ from the proportion of these negotiators reporting that getting a better deal was their motivation when they lied by commission (84%) ... Similarly, this proportion did not differ from the proportion of these negotiators reporting that getting a better deal was their motivation when they lied by omission (91%)."
 
 翻译与拆解：
 
-- **66%** 的高管报告自己在"大多数"（**22%**）或"一部分"（**45%**）谈判中会 palter；只有 **34%** 报告仅在"极少数"谈判中 palter。
-- **80%** 的高管报告：他们 palter 时，**认为自己是诚实的**。
-- **92%** 的高管报告：他们 palter 是为了拿到更好的交易结果。
+- **52%** 的高管报告自己在"大多数或一部分"谈判中会 palter；对照：**57%** 报告在"大多数或一部分"谈判中会说遗漏之谎（McNemar检验，palter vs 遗漏之谎无显著差异，χ²=2.08, p=.150），**21%** 报告会说硬谎（palter 显著高于硬谎，χ²=52.56, p<.001）。发表版**未再拆分"大多数"与"一部分"各自的具体占比**，只报告二者合并后的单一百分比。
+- **32%** 的高管报告：他们 palter 时认为自己是诚实的；对照：遗漏之谎 **23%**（差异显著，p=.026）、硬谎仅 **5%**（差异极显著，p<.001）。
+- **88%** 的高管报告：他们 palter 是为了拿到更好的交易结果；对照：硬谎 **84%**、遗漏之谎 **91%**，三者两两无显著差异（p均>.1）。
 
-**⚠ 论文内部数字标注不一致，写作时须用本节数字，不用"总讨论"部分的表述**：该论文"总讨论"（General Discussion）部分复述这组数字时写成"palter in some (22%) or most (45%) of their negotiations"——把"22%"和"45%"对应的"most/some"标签**前后调换**了。核对"结果"（Results）正文段落（本节引用的原文），确认"most=22%，some=45%"为该研究实际测量口径下的准确对应，写作时应以此为准，避免直接照抄"总讨论"段落里调换过的表述。
+**⚠ 关键更正（2026-07-16二轮修正）：此前版本引用的66%/22%/45%/34%/80%/92%（N=65）一组数字，来自2014年 Harvard Kennedy School 工作论文草稿（RWP14-045），并非2017年正式发表版的数据**。已直接核对该工作论文草稿原文PDF，确认草稿中确实写道：
 
-**⚠ 网络二手转述存在明显误差，写作与查证时务必避开**：多篇媒体/博客文章（如 Ya Libnan、部分转载 HBS Working Knowledge 内容的站点）转述为"52%的高管承认 palter""88%的经理为了更好交易而 palter"，这两个数字**均未在原文中出现**，且与原文的66%/80%/92%均对不上。本文件已直接逐字核对原文 PDF，**66%/80%/92% 这三个数字是唯一应采用的版本**。
+> （工作论文 Results 段）"A large majority of the executives (66%) reported paltering in most (22%) or some of their negotiations (45%), whereas only 34% reported paltering in just a few of their negotiations. Eighty percent of all the executives reported that when they do palter in negotiations, they think of their paltering as honest. Finally, 92% of participants reported that they palter in order to get a better deal."
+> （工作论文 General Discussion 段）"Our Pilot Study showed that a significant majority of executives palter in some (22%) or most (45%) of their negotiations."
 
-- **信源**：Rogers et al. (2017) 正文第11-12页（Artful Paltering 11-12），已直接核对逐字。
-- **评级**：★★★★★（一次文献直接核对）
+工作论文草稿的 Results 段与 General Discussion 段确实存在"most/some"标签互换（Results：most=22%/some=45%；Discussion：some=22%/most=45%），但这一不一致**只存在于已被作者废弃的2014年工作论文草稿中**。正式发表的 *JPSP* 112(3), 456-473 版本将这一试点研究**重新设计、扩充为两项独立的 Pilot Study**（Pilot Study 1：laypeople 辨识测试；Pilot Study 2：184名高管，即本节数据来源）——**样本量从65人增至184人，测量方式改为"大多数或一部分"合并计算的单一百分比，并新增了遗漏之谎/硬谎的完整对照数据与显著性检验**。工作论文草稿中的66%/22%/45%/34%/80%/92%（N=65）**在发表版中已不存在，发表版也不存在"most/some"标签互换问题**——不应再将这一草稿现象描述为 *JPSP* 定稿内部的前后矛盾。
+
+写作与引用时的要求：
+1. **正文只应使用发表版数字**（52%/57%/21%/32%/23%/5%/88%/84%/91%，N=184），不再使用66%/22%/45%/34%/80%/92%（N=65）这组已被作者本人废弃的草稿数字。
+2. 若确需在写作中提及"工作论文草稿与发表版数字不同"这一版本演变过程本身，须明确标注"引自2014年工作论文草稿（RWP14-045），发表版已不含此数据"，不应暗示这是 *JPSP* 定稿内部的不一致。
+3. 此前版本"网络二手转述存在明显误差"一条中被判定为错误的"52%的高管承认 palter""88%的经理为了更好交易而 palter"，经核对**实际就是发表版的52%（palter，大多数或一部分谈判）与88%（palter 为拿到更好交易）**——原判定系用已废弃的工作论文草稿数字去反证网络转述，比对方向有误，该误判特此撤销。
+
+- **信源**：Rogers et al. (2017) *Journal of Personality and Social Psychology*, 112(3), 456-473，正文 Pilot Study 2 部分（Results/Discussion），已直接获取该发表版全文PDF逐字核对；工作论文草稿 Rogers, Zeckhauser, Gino, Norton, & Schweitzer (2014), *Harvard Kennedy School Faculty Research Working Paper* RWP14-045，已直接核对全文PDF逐字（仅作历史版本对照，不作为正文数字引用来源）。
+- **评级**：★★★★★（一次文献直接核对，核对对象为发表版 *JPSP* 112(3), 456-473 正文，与本文件参考文献/评级表中标注的定稿来源一致）
 
 ### 2.2 Study 1a / 1b：人更愿意 palter，而不是撒硬谎
 
@@ -298,8 +306,9 @@ Study 4a / 4b 的对照（第2.4节）说明，"觉得 paltering 没那么严重
 ## 八、核心引用
 
 1. **Rogers, T., Zeckhauser, R., Gino, F., Norton, M. I., & Schweitzer, M. E. (2017).** "Artful Paltering: The Risks and Rewards of Using Truthful Statements to Mislead Others." *Journal of Personality and Social Psychology*, 112(3), 456-473.
-   - 工作论文版全文核对来源：Harvard Kennedy School, Mossavar-Rahmani Center for Business and Government, Faculty Working Paper 2014-03.
-   - 评级：★★★★★（一次文献，全文逐字核对）
+   - 全文核对来源：发表版全文PDF（*JPSP* 112(3), 456-473，美国心理学会版权页确认为正式出版版本），已逐字核对，本文件正文数字（含2.1节）均以此为准。
+   - 补充历史对照：2014年 Harvard Kennedy School 工作论文草稿（RWP14-045）已另行核对，其试点研究设计、样本量、百分比均与发表版不同（详见2.1节），仅作版本演变说明，不作正文引用来源。
+   - 评级：★★★★★（一次文献，发表版全文逐字核对）
 
 2. **Schauer, F., & Zeckhauser, R. (2009).** "Paltering." In B. Harrington (Ed.), *Deception: From Ancient Empires to Internet Dating* (pp. 38-54). Stanford, CA: Stanford University Press.
    - 评级：★★★★☆（paltering 术语的原始提出文献，经 Rogers et al. 2017 参考文献列表直接核对条目，未直接获取该章节全文）
@@ -342,6 +351,6 @@ Study 4a / 4b 的对照（第2.4节）说明，"觉得 paltering 没那么严重
 
 ---
 
-*文件完整性说明：本文件核心数字（第二节全部）均经一次文献（Rogers et al. 2017 工作论文版PDF）直接逐字核对；类型学四层框架（第三节）综合两篇一次文献核对（Rogers et al. 2017、Gaspar et al. 2019）与若干摘要级交叉确认信源；已明确标注一处论文自身内部数字不一致（2.1节"most/some"标签调换）、一处网络二手转述与原文不符（2.1节52%/88%误传）、若干"待证实"具体数字（Murnighan et al. 1999、Aquino & Becker 2005、Schweitzer & Croson 1999 的具体百分比、Schweitzer & Hsee 2002 的具体实验数值）。未发现涉及日本/台湾的案例；涉及真实政治人物的经典教学例证（1.3节克林顿案例）已标注政治敏感性提示与替代写法建议。全文未使用"70%/80%沟通误解"类被禁数字家族，亦未将微表情/行为线索作为有效识谎依据（4.2节已明确排除）。*
+*文件完整性说明：本文件核心数字（第二节全部）均经一次文献（Rogers et al. 2017 *JPSP* 112(3), 456-473 发表版PDF）直接逐字核对；类型学四层框架（第三节）综合两篇一次文献核对（Rogers et al. 2017、Gaspar et al. 2019）与若干摘要级交叉确认信源；**2026-07-16二轮修正**：2.1节试点研究数字已由2014年工作论文草稿数字（N=65，66%/22%/45%/34%/80%/92%）更正为发表版数字（N=184，52%/57%/21%/32%/23%/5%/88%/84%/91%），原"论文内部most/some标签调换"问题已查明只存在于已被作者废弃的工作论文草稿中，并非 *JPSP* 定稿内部矛盾；原判定为"网络二手转述与原文不符"的52%/88%经核对实为发表版正确数字，该误判已撤销；仍存若干"待证实"具体数字（Murnighan et al. 1999、Aquino & Becker 2005、Schweitzer & Croson 1999 的具体百分比、Schweitzer & Hsee 2002 的具体实验数值）。未发现涉及日本/台湾的案例；涉及真实政治人物的经典教学例证（1.3节克林顿案例）已标注政治敏感性提示与替代写法建议。全文未使用"70%/80%沟通误解"类被禁数字家族，亦未将微表情/行为线索作为有效识谎依据（4.2节已明确排除）。*
 
 *文件最后更新：2026-07-12*

@@ -1,6 +1,7 @@
 # 费用分摊与AA惯例
 
 > 2026-07-16 逐源核验修复：本文件按核验工单修复 3 处，记录见《知识库逐源核验报告》。
+> 2026-07-16 二轮修正：按定性调查回滚/追加 1 处（见《知识库问题定性调查报告》）。
 
 > **适用章节**：《新六艺》· 礼 · 子章节三「公平契约」·「公平地分——AA的边界」节
 > **知识库版本**：v1.0
@@ -158,7 +159,7 @@
 
 ### 4.3 交叉来源
 
-豆瓣读书页面（book.douban.com/subject/3758143、book.douban.com/subject/26951502）、百度百科词条、中国理论法学研究信息网转载页面（legal-theory.org）、微信读书/得到APP电子书页面——多方独立确认书目、出版社、年份信息一致。杨美惠此书曾获美国民族志学会图书奖（American Ethnological Society Book Prize，1997，Cambridge Core及Cornell UP官方页面等独立来源交叉确认），并获利兹城市人类学奖、维克多特纳奖荣誉提名（Honorable Mention；提名的具体年份1996/1995系知识库原有记载，2026-07核验时未能从独立来源核实该具体年份，建议正文仅表述"获荣誉提名"而不指定年份），学术地位可信。
+豆瓣读书页面（book.douban.com/subject/3758143、book.douban.com/subject/26951502）、百度百科词条、中国理论法学研究信息网转载页面（legal-theory.org）、微信读书/得到APP电子书页面——多方独立确认书目、出版社、年份信息一致。杨美惠此书曾获美国民族志学会图书奖（American Ethnological Society Book Prize，1997，Cambridge Core及Cornell UP官方页面等独立来源交叉确认），并获利兹城市人类学奖荣誉提名（具体年份未经独立来源核实，建议正文不指定年份）、维克多特纳奖荣誉提名（1995年，据该奖项官方主办方Society for Humanistic Anthropology官网历年获奖名单核实），学术地位可信。
 
 ### 4.4 核心论点
 
